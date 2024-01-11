@@ -19,6 +19,7 @@ Stay informed about the number of items in your cart with a handy indicator on t
 Our product pages are designed with the latest technologies to provide you with a modern and user-friendly interface.
 
 React App 🚀
+
 Experience the power of a React app that ensures smooth and dynamic interactions. Enjoy a responsive and engaging shopping journey as you navigate through our product listings.
 
 
@@ -39,12 +40,15 @@ Product Page - React App with Tailwind CSS and React Router DOM
 Our product pages are designed with the latest technologies to provide you with a modern and user-friendly interface.
 
 React App 🚀
+
 Experience the power of a React app that ensures smooth and dynamic interactions. Enjoy a responsive and engaging shopping journey as you navigate through our product listings.
 
 Tailwind CSS 💅
+
 BuyIn is styled with Tailwind CSS, a utility-first CSS framework that ensures a sleek and visually appealing design. Expect a clean and aesthetic layout that enhances your browsing experience.
 
 React Router DOM 🌐
+
 Effortlessly explore different product categories and seamlessly switch between pages with the help of React Router DOM. It keeps your experience fluid and ensures you find what you're looking for without any hassle.
 
 ## Get Started
