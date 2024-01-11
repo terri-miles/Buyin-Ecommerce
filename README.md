@@ -4,12 +4,15 @@ Welcome to BuyIn - your go-to destination for a seamless online shopping experie
 ## Features
 
 ### Add to Cart 🛒
+
 Easily add your favorite products to your shopping cart with just a click. Enjoy a hassle-free shopping experience by building your cart as you explore our extensive range of products.
 
 ### Remove from Cart 🗑️
+
 Changed your mind about a particular item? No worries! Remove it from your cart effortlessly. We believe in giving you complete control over your shopping decisions.
 
 ### Cart Item Number Indicator 📊
+
 Stay informed about the number of items in your cart with a handy indicator on the cart icon. This way, you'll never lose track of your selected items while browsing through our amazing collection.
 
 ## Product Page - React App with Tailwind CSS and React Router DOM
